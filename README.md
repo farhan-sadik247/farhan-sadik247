@@ -71,10 +71,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan-sadik247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-sadik247&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  <img width="573" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan-sadik247&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan-sadik247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-sadik247&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="auto" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan-sadik247&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ###

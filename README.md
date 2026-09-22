@@ -80,11 +80,6 @@
 ###
 
 
-<div align="center">
-  <img width="auto" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=farhan-sadik247&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-  
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing%20together&descAlignY=50&descAlign=center" alt="Footer" />

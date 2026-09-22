@@ -1,4 +1,4 @@
-<h2 align="center">Assalamualaikum, I am Md. Farhan Sadik, a Full Stack Developer specializing in the MERN stack.</h2>
+<h2 align="center">Assalamualaikum, I am Md. Farhan Sadik, a Full Stack Developer passionate about Cloud, AI Automation, and modern software development.</h2>
 
 ###
 

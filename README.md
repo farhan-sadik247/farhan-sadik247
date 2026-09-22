@@ -2,7 +2,19 @@
 
 ###
 
-<h4 align="left">🔭 I'm currently working on React Native app development<br>🌱 I'm currently learning advanced React Native and mobile development patterns<br>💼 I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js) development<br>🎯 I've built projects ranging from decentralized applications to 3D visualization platforms<br>💡 I'm interested in AI/ML applications, particularly in computer vision and NLP<br>❓ Ask me about anything related to MERN stack, React Native, or full stack architecture<br>⚡ Fun fact: I use tabs over spaces</h4><br/><br/>
+<h4 align="left">
+🔭 I'm currently working on healthcare applications using Angular, Python, Firebase, and AWS<br>
+🌱 I'm currently learning AWS Cloud, AI automation, and modern AI-assisted development workflows<br>
+💼 I specialize in full-stack development with Angular, React.js, Next.js, Node.js, and Python<br>
+📱 I also work with React Native for cross-platform mobile application development<br>
+☁️ I'm gaining hands-on experience with AWS, Firebase Cloud Functions, REST APIs, and cloud-based applications<br>
+🤖 I'm interested in AI automation, prompt engineering, AI-powered applications, and intelligent workflows<br>
+🚀 I've built full-stack platforms including academic systems, e-commerce applications, and a Python learning platform<br>
+🧠 I'm exploring how AI can automate development workflows and solve real-world problems<br>
+❓ Ask me about Angular, Next.js, React Native, Python, AWS, AI automation, or prompt engineering<br>
+⚡ Fun fact: I use tabs over spaces
+</h4>
+<br/><br/>
 
 <div align="center">
   <table>

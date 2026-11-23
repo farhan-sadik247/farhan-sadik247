@@ -53,8 +53,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-sadik247&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=20" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-sadik247&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=20&card_width=495" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">

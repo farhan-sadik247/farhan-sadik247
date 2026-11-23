@@ -53,12 +53,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan-sadik247&theme=tokyonight" width="100%" alt="Profile details" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan-sadik247&theme=tokyonight" height="180" alt="Repos per language" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan-sadik247&theme=tokyonight" width="100%" alt="Profile details" />
+</p>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="Footer" />

@@ -44,8 +44,29 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center"><b>💻 Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css,angular,react,nextjs,tailwind,sass,nodejs,express,django,firebase,aws,supabase,postgres,mongodb,mysql,prisma,git,github,docker,postman,vercel,vscode&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css" alt="Languages" />
+</p>
+
+<p align="center"><b>🎨 Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,sass" alt="Frontend" />
+</p>
+
+<p align="center"><b>⚙️ Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" alt="Backend" />
+</p>
+
+<p align="center"><b>☁️ Cloud & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,supabase,postgres,mongodb,mysql,prisma" alt="Cloud and databases" />
+</p>
+
+<p align="center"><b>🧰 Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" alt="Tools" />
 </p>
 
 <br/>

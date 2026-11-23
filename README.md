@@ -44,31 +44,38 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>💻 Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css" alt="Languages" />
-</p>
-
-<p align="center"><b>🎨 Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,sass" alt="Frontend" />
-</p>
-
-<p align="center"><b>⚙️ Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" alt="Backend" />
-</p>
-
-<p align="center"><b>☁️ Cloud & Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,supabase,postgres,mongodb,mysql,prisma" alt="Cloud and databases" />
-</p>
-
-<p align="center"><b>🧰 Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" alt="Tools" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>💻 Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css" alt="Languages" />
+    </td>
+    <td align="center" width="50%">
+      <b>🎨 Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,sass" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
+    </td>
+    <td align="center">
+      <b>☁️ Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,firebase,supabase,vercel" alt="Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🗄️ Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="Databases" />
+    </td>
+    <td align="center">
+      <b>🧰 Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools" />
+    </td>
+  </tr>
+</table>
 <br/>
 
 ## 📊 GitHub Stats

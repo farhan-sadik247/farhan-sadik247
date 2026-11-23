@@ -48,31 +48,52 @@
   <tr>
     <td align="center" width="50%">
       <b>💻 Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=py" height="48" title="Python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="48" title="TypeScript" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=c" height="48" title="C" alt="C" />
+      <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS" alt="CSS" />
     </td>
     <td align="center" width="50%">
       <b>🎨 Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,sass" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=angular" height="48" title="Angular" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=react" height="48" title="React / React Native" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="48" title="Next.js" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="48" title="Tailwind CSS" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=sass" height="48" title="Sass / SCSS" alt="Sass" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>⚙️ Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" height="48" title="Express.js" alt="Express.js" />
+      <img src="https://skillicons.dev/icons?i=django" height="48" title="Django" alt="Django" />
     </td>
     <td align="center">
       <b>☁️ Cloud</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,firebase,supabase,vercel" alt="Cloud" />
+      <img src="https://skillicons.dev/icons?i=aws" height="48" title="AWS" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="48" title="Firebase" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=supabase" height="48" title="Supabase" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="48" title="Vercel" alt="Vercel" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>🗄️ Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="48" title="Prisma" alt="Prisma" />
     </td>
     <td align="center">
       <b>🧰 Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" alt="VS Code" />
     </td>
   </tr>
 </table>

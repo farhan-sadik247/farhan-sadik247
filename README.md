@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=farhan-sadik247&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhan-sadik247&theme=tokyonight" height="180" alt="Repos per language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-sadik247&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&hide=yacc&langs_count=6" height="180" alt="Top languages" />
 </p>
 
 <p align="center">

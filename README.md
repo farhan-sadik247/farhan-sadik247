@@ -67,39 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://codewithfarhan.vercel.app">Python Learning Platform</a></h3>
-      <p>Role-based Admin/Teacher/Student dashboards with an in-browser Monaco editor, server-side execution, hidden tests and auto-grading.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>👟 <a href="https://shoe-bay247.vercel.app">AI E-Commerce Chatbot</a></h3>
-      <p>A shoe store with an AI shopping assistant powered by Gemini tool-calling, plus auth, persistent carts, order tracking and per-user chat history.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📚 <a href="https://gjadt.vercel.app">Academic Journal Platform</a></h3>
-      <p>End-to-end journal publishing with Google OAuth, five user roles, multi-level editorial review and email notifications.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
